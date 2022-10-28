@@ -41,6 +41,7 @@
 }
 
 .task-block {
+  padding-top: 20px;
   display: flex;
 }
 
@@ -50,7 +51,7 @@
 }
 
 .item, 
-.section-title {
+.title-section {
   list-style: none;
 }
 
@@ -74,7 +75,7 @@
 }
 
 /* Heading */
-.section-title,
+.title-section,
 .label[for="new-task"] {
   color: #333;
   font-weight: 700;
